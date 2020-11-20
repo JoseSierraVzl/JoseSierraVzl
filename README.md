@@ -20,6 +20,11 @@
 
 ¡Hola! soy Jose Alejandro un Programador junior 🙋‍♂️ Venezolano 🇻🇪, cada día en busca del conocimiento 🧠 y superando mis limites 🚀, aparte de la programación, Disfruto de la buena comida 🍽 el ejercicio 🏋‍♂️ y la música🎶.
 
+- Fundador de CODELOID<a href="https://www.instagram.com/_codeloid/">
+  <img align="left" alt="JoseSierraVzl Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
 
 **Hablando de cosas personales:**
 
