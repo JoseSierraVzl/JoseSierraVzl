@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/JoseSierraVzl/JoseSierraVzl/blob/main/statics/JoseSierraVzl.png"/></p>
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
