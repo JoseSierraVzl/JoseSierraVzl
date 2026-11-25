@@ -1,57 +1,71 @@
-<p align="center"><img src="https://github.com/JoseSierraVzl/JoseSierraVzl/blob/main/statics/JoseSierraVzl.png"/></p>
-
-
-<h3>Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-
-<br />
-
-<a href="https://www.instagram.com/jamsve/">
-  <img align="left" alt="JoseSierraVzl Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://t.me/sty_tecnical">
-  <img align="left" alt="JoseSierraVzl Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<br />
-
-¡Hola! soy Jose Alejandro un Programador Venezolano 🇻🇪, cada día en busca del conocimiento 🧠 y superando mis limites 🚀, aparte de la programación, Disfruto de la buena comida 🍽 el ejercicio 🏋‍♂️ y la música🎶.
-
-- Fundador de CODELOID<a href="https://www.instagram.com/_codeloid/">
-  <img align="left" alt="JoseSierraVzl Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
-
-**Conocimientos en:**
-<p>
-	 <li>Php: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></li>
-	 <li>Symfony: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></li>
-	 <li>Laravel: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></li>
-	 <li>Python: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></li>
-	 <li>JavaScrip: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></li>
-		 <li>Vue: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></li>
-	 <li>Html5: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></li>
-	 <li>Css3: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></li>
-	 <li>Sass: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></li>
-	 <li>Bootstrap: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></li>
-	 <li>Django: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></li>
-	 <li>MySql: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></li>
-	 <li> Shell Script <img src="https://img.icons8.com/office/20/000000/console.png"/></li>
-	 <li> Técnico en Reparación de PCs [Hardware & Software] 🛠</li>
-	 <li> Linux <img src="https://img.icons8.com/color/20/000000/linux-mint.png"/><img src="https://img.icons8.com/color/20/000000/kali-linux.png"/></li>
-	 <br>
+<p align="center">
+  <img src="statics/JoseSierraVzl.png" alt="Jose Sierra banner" />
 </p>
 
+<p align="center">
+  <b>🇬🇧 English</b> · <a href="#-español">🇪🇸 Español</a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseSierraVzl&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+## Hi, I'm Jose Alejandro 👋
 
+**Full-stack developer from Venezuela 🇻🇪** focused on **PHP (Symfony / Laravel)** and **Vue.js**, with 4+ years building production web apps: e-commerce, a cryptocurrency platform and business sites.
 
+- 🛒 Former **development lead at Takeit** (e-commerce) at Ciph3r
+- 🪙 Built features and fixes for **MintMe**, a crypto web platform (Symfony + Vue + Docker)
+- 🧑‍🏫 Onboarded and reviewed code from other developers on every team I've joined
+- 🎓 Computer Engineering — UNETI
+<!-- TODO: elige una línea y bórrala si no aplica -->
+- 🔭 Currently: open to remote full-stack / backend roles
 
-📈 My GitHub Stats
+### 🛠 Tech stack
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoseSierraVzl&theme=blueberry&show_icons=true)
+**Main**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=php,symfony,laravel,vue,js,ts,mysql,docker,git" alt="PHP, Symfony, Laravel, Vue, JavaScript, TypeScript, MySQL, Docker, Git" />
+</p>
 
+**Also worked with**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,py,tailwind,sass,bootstrap,webpack,linux,figma" alt="React, Next.js, Node.js, Express, Python, Tailwind, Sass, Bootstrap, Webpack, Linux, Figma" />
+</p>
+
+Testing: PHPUnit · Vue Test Utils — Livewire · Alpine.js
+
+### 📌 Featured work
+
+<!-- TODO: reemplaza con 2–3 repos reales. Un proyecto con README, capturas y demo vale más que toda la lista de tecnologías. -->
+| Project | What it is | Stack |
+|---|---|---|
+| [project-1](https://github.com/JoseSierraVzl/project-1) | One-line description of the problem it solves | Laravel · Vue |
+| [project-2](https://github.com/JoseSierraVzl/project-2) | One-line description | Symfony · Docker |
+| [carpitec43.com](https://www.carpitec43.com) | Web app for a carpentry business | — |
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jamsve-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamsve/)
+[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:sierramedezjosealejandro@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-jamsve-26A5E4?logo=telegram&logoColor=white)](https://t.me/jamsve)
+
+---
+
+<details>
+<summary><h2>🇪🇸 Español</h2></summary>
+
+## Hola, soy Jose Alejandro 👋
+
+**Desarrollador full-stack venezolano 🇻🇪** enfocado en **PHP (Symfony / Laravel)** y **Vue.js**, con más de 4 años construyendo aplicaciones web en producción: e-commerce, una plataforma de criptomonedas y sitios para negocios.
+
+- 🛒 Fui **líder de desarrollo en Takeit** (e-commerce) en Ciph3r
+- 🪙 Desarrollé funcionalidades y correcciones para **MintMe**, plataforma web cripto (Symfony + Vue + Docker)
+- 🧑‍🏫 He guiado la incorporación y revisado código de otros desarrolladores en cada equipo
+- 🎓 Ingeniería en Computación — UNETI
+- 🔭 Actualmente: abierto a roles remotos full-stack / backend
+
+**Stack principal:** PHP, Symfony, Laravel, Vue.js, JavaScript, TypeScript, MySQL, Docker, Git
+**También:** React, Next.js, Node.js, Express, Python, Tailwind, Sass, Bootstrap, Webpack, Linux, Figma
+
+📫 [LinkedIn](https://www.linkedin.com/in/jamsve/) · [Email](mailto:sierramedezjosealejandro@gmail.com) · [Telegram](https://t.me/jamsve)
+
+</details>
