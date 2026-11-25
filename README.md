@@ -40,23 +40,3 @@ Testing: PHPUnit · Vue Test Utils — Livewire · Alpine.js
 [![Telegram](https://img.shields.io/badge/Telegram-jamsve-26A5E4?logo=telegram&logoColor=white)](https://t.me/jamsve)
 
 ---
-
-<details>
-<summary><h2>🇪🇸 Español</h2></summary>
-
-## Hola, soy Jose Alejandro 👋
-
-**Desarrollador full-stack venezolano 🇻🇪** enfocado en **PHP (Symfony / Laravel)** y **Vue.js**, con más de 4 años construyendo aplicaciones web en producción: e-commerce, una plataforma de criptomonedas y sitios para negocios.
-
-- 🛒 Fui **líder de desarrollo en Takeit** (e-commerce) en Ciph3r
-- 🪙 Desarrollé funcionalidades y correcciones para **MintMe**, plataforma web cripto (Symfony + Vue + Docker)
-- 🧑‍🏫 He guiado la incorporación y revisado código de otros desarrolladores en cada equipo
-- 🎓 Ingeniería en Computación — UNETI
-- 🔭 Actualmente: abierto a roles remotos full-stack / backend
-
-**Stack principal:** PHP, Symfony, Laravel, Vue.js, JavaScript, TypeScript, MySQL, Docker, Git
-**También:** React, Next.js, Node.js, Express, Python, Tailwind, Sass, Bootstrap, Webpack, Linux, Figma
-
-📫 [LinkedIn](https://www.linkedin.com/in/jamsve/) · [Email](mailto:sierramedezjosealejandro@gmail.com) · [Telegram](https://t.me/jamsve)
-
-</details>
