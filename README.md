@@ -33,15 +33,6 @@
 
 Testing: PHPUnit · Vue Test Utils — Livewire · Alpine.js
 
-### 📌 Featured work
-
-<!-- TODO: reemplaza con 2–3 repos reales. Un proyecto con README, capturas y demo vale más que toda la lista de tecnologías. -->
-| Project | What it is | Stack |
-|---|---|---|
-| [project-1](https://github.com/JoseSierraVzl/project-1) | One-line description of the problem it solves | Laravel · Vue |
-| [project-2](https://github.com/JoseSierraVzl/project-2) | One-line description | Symfony · Docker |
-| [carpitec43.com](https://www.carpitec43.com) | Web app for a carpentry business | — |
-
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jamsve-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamsve/)
